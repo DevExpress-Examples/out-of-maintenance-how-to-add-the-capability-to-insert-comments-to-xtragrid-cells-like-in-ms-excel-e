@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Class1.cs](./CS/WinFormsExample/Class1.cs) (VB: [Class1.vb](./VB/WinFormsExample/Class1.vb))
+* [Form1.cs](./CS/WinFormsExample/Form1.cs) (VB: [Form1.vb](./VB/WinFormsExample/Form1.vb))
+* [Program.cs](./CS/WinFormsExample/Program.cs) (VB: [Program.vb](./VB/WinFormsExample/Program.vb))
+<!-- default file list end -->
 # How to add the capability to insert comments to XtraGrid cells (like in MS Excel)
 
 
